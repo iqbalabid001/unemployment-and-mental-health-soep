@@ -10,7 +10,7 @@ This project investigates how unemployment duration affects mental health trajec
 
 - **Honeymoon Effect:** Mental health increases slightly (+0.48 points) immediately after job loss, consistent with short-term relief from workplace stress.
 - **Scarring Effect:** Fixed Effects models reveal a cumulative decline of ~0.075 points per year of unemployment for the same individual — the opposite of what aggregate data suggests.
-- **Marital Status Matters:** Married individuals experience a pronounced relief phase before scarring sets in. Widowed individuals receive almost no relief, deteriorating immediately upon job loss.
+- **Social Support Matters:** Married individuals experience a pronounced relief phase before scarring sets in. Widowed individuals receive almost no relief, deteriorating immediately upon job loss.
 
 ## Methods
 
