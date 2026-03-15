@@ -26,6 +26,7 @@ This project investigates how unemployment duration affects mental health trajec
 | `Final_Report_code_Iqbal.Rmd` | Full R Markdown source code |
 | `Final_Report_code_Iqbal.html` | Knitted HTML report (open in browser) |
 | `Final_Report_refs_Iqbal.bib` | Bibliography references |
+| `raw_report_code .R` | Plain R Code used for Rmd |
 
 ## Data
 
